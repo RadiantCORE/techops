@@ -1,2 +1,3 @@
 difference between git pull and git fetch is that if you have files on remote repo and git fetch, it brings file only to local repository, for you to notice change that occurs, you have to git merge. git pull brings changes directly to the local repository and staging area.
 we can add or subtract from remote repository.
+we are adding a file to pull to the local repo and working area
